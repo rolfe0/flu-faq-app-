@@ -1,6 +1,0 @@
-streamlit
-google-genai
-python-dotenv
-jieba
-scikit-learn
-python-docx
